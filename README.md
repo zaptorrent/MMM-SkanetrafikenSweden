@@ -20,7 +20,7 @@ Magic Mirror Module: MMM-SkanetrafikenSweden This module for the Magic Mirror² 
 				oldest: 30,                     // Optional. Dont show departures further away than this number of minutes.
 				maxResults: 6,                  // Optional. Max no of results to show. Can't be more than 50.
 				stationId: "80915",             // Required. The id of the stop you want to monitor. Find your id: 
-												// http://www.labs.skanetrafiken.se/v2.2/querystation.asp?inpPointfr=hyllie 
-												// (change "hyllie" in url to the name of your stop). 
+								// http://www.labs.skanetrafiken.se/v2.2/querystation.asp?inpPointfr=hyllie 
+								// (change "hyllie" in url to the name of your stop). 
 			},
 		},
