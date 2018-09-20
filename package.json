@@ -1,27 +1,29 @@
 {
-  "name": "mmm-crisisinformationsweden",
+  "name": "mmm-skanetrafikensweden",
   "version": "1.0.0",
-  "description": "News feed from the Swedish Government Crisis Information",
-  "main": "index.js",
+  "description": "Train & bus departures from the Skånetrafiken API (http://labs.skanetrafiken.se/api.asp).",
+  "main": "MMM-SkanetrafikenSweden.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boghammar/MMM-CrisisInformationSweden.git"
+    "url": "git+https://github.com/zaptorrent/MMM-SkanetrafikenSweden.git"
   },
   "keywords": [
     "magicmirror",
-    "crisis"
+    "transport",
+    "skånetrafiken"
   ],
-  "author": "anders@boghammar.com",
+  "author": "lee@embrin.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/boghammar/MMM-CrisisInformationSweden/issues"
+    "url": "https://github.com/zaptorrent/MMM-SkanetrafikenSweden/issues"
   },
-  "homepage": "https://github.com/boghammar/MMM-CrisisInformationSweden#readme",
+  "homepage": "https://github.com/zaptorrent/MMM-SkanetrafikenSweden#readme",
   "dependencies": {
     "request": "^2.81.0",
-    "request-promise": "^4.2.1"
+    "request-promise": "^4.2.1",
+    "node-skanetrafiken": ""
   }
 }
