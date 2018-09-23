@@ -1,6 +1,8 @@
-# MMM-SkanetrafikenSweden
+﻿# MMM-SkanetrafikenSweden
 
 Magic Mirror Module: MMM-SkanetrafikenSweden This module for the Magic Mirror² lists the departures from a specified bus stop using Skånetrafikens API.
+
+![MMM-SkanetrafikenSweden](https://github.com/zaptorrent/MMM-SkanetrafikenSweden/blob/master/docs/Screenshot1.PNG)
 
 ## Installation
 
