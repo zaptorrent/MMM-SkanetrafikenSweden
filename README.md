@@ -26,3 +26,5 @@ Magic Mirror Module: MMM-SkanetrafikenSweden This module for the Magic Mirror² 
 								// (change "hyllie" in url to the name of your stop). 
 			},
 		},
+
+NOTE! The first api call will happen after the length of time set in "updateInterval" has passed (default 10 min).
